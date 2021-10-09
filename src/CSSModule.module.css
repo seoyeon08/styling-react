@@ -7,6 +7,13 @@
 	font-size: 2rem;
 }
 
+ /* 해당 부분을 삽입 */
+.inverted {
+	color: black;
+	background: white;
+	border: 1px solid black;
+}
+
 /*글로벌 CSS를 작성하고 싶다면*/
 
 :global .somthing {
